@@ -22,6 +22,12 @@ function MyApp({ Component, pageProps }) {
           name="google-site-verification"
           content="cEHMvS7TWSxmTdrHaXujawu14-aIg5SmkC1rSlsbpUE"
         />
+
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4849698160989720"
+          crossorigin="anonymous"
+        ></script>
       </Head>
       <Component {...pageProps} />
     </>
